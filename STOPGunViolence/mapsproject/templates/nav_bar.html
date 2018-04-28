@@ -21,26 +21,15 @@
 				</div>
 			</form>
 
+            <a href="/analysis" class="nav-link js-scroll-trigger" id="navSignIn">VIEW ANALYSIS</a>
+
+            <a href="" class="nav-link js-scroll-trigger" id="navSignIn">SHARE ANALYSIS</a>
+
 			<ul class="navbar-nav ml-auto nav-bar-desktop">
 				{% if auth %}
 					<li>
 						<img src="{% static 'img/DisplayPic.png' %}" id="navProfilePic" data-dropdown="#userMenu" data-add-anchor-x="-10">
 					</li>
-				{% else %}
-					<li class="nav-item">
-						<a href="/signin" class="nav-link js-scroll-trigger" id="navSignIn">Sign In</a>
-					</li>
-					<li class="nav-item">
-						<a href="/signup" class="nav-link js-scroll-trigger" id="navSignUp">Sign Up</a>
-					</li>
-				{% endif %}
-			</ul>
-			
-			<ul class="navbar-nav ml-auto nav-bar-mobile">
-				{% if auth %}
-				<li class="nav-item">
-					<p>Signed in as:</p>
-					<p><b>ADMIN</b></p>
 				{% else %}
 					<li class="nav-item">
 						<a href="/signin" class="nav-link js-scroll-trigger" id="navSignIn">Sign In</a>

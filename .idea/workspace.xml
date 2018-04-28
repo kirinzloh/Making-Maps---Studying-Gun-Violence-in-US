@@ -2,42 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3137b9f0-51f8-4591-821f-1196c2ea88a9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/MarkerCluster.Default.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/MarkerCluster.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/cancel.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/cancel_@2X.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/check.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/check_@2X.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/focus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/focus_@2X.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/layers-2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/layers.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/marker-icon-2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/marker-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/marker-shadow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/measure-control.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/rulers.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/rulers_@2X.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/start.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/start_@2X.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/trash.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/images/trash_@2X.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/leaflet-search.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/leaflet.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/qgis2web.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/data/EducationalAttainmentBachelorDegreeofpeople_2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/data/FirearmRateper100kPopulation_4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/data/PopulationDensityResidentsperSquareMile_0.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/data/UnemploymentLevelofpeople_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/data/WeaponOwnershipofpeople_3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/images/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/images/search-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/Autolinker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/Leaflet.VectorGrid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/OSMBuildings-Leaflet.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/labelgun.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/labels.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet-hash.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet-heat.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet-search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet-svg-shape-markers.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet-tilelayer-wmts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet.markercluster.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet.pattern.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet.rotatedMarker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/leaflet.wms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/EducationalAttainmentBachelorDegreeofpeople_2_019202300.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/EducationalAttainmentBachelorDegreeofpeople_2_232631.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/EducationalAttainmentBachelorDegreeofpeople_2_2632952.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/EducationalAttainmentBachelorDegreeofpeople_2_2953493.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/EducationalAttainmentBachelorDegreeofpeople_2_3494054.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/FirearmRateper100kPopulation_4_14183.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/FirearmRateper100kPopulation_4_18234.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/FirearmRateper100kPopulation_4_360.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/FirearmRateper100kPopulation_4_691.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/FirearmRateper100kPopulation_4_9142.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/PopulationDensityResidentsperSquareMile_0_11130.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/PopulationDensityResidentsperSquareMile_0_1132861.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/PopulationDensityResidentsperSquareMile_0_2864942.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/PopulationDensityResidentsperSquareMile_0_4948793.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/PopulationDensityResidentsperSquareMile_0_87912254.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/UnemploymentLevelofpeople_1_24310.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/UnemploymentLevelofpeople_1_31381.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/UnemploymentLevelofpeople_1_38452.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/UnemploymentLevelofpeople_1_45523.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/UnemploymentLevelofpeople_1_52724.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/WeaponOwnershipofpeople_3_00940.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/WeaponOwnershipofpeople_3_0941851.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/WeaponOwnershipofpeople_3_1852952.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/WeaponOwnershipofpeople_3_2954803.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/legend/WeaponOwnershipofpeople_3_48022714.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/multi-style-layer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/qgis2web_expressions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/rbush.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/EducationalAttainmentBachelorDegreeofpeople_2_019202300.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/EducationalAttainmentBachelorDegreeofpeople_2_232631.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/EducationalAttainmentBachelorDegreeofpeople_2_2632952.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/EducationalAttainmentBachelorDegreeofpeople_2_2953493.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/EducationalAttainmentBachelorDegreeofpeople_2_3494054.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/FirearmRateper100kPopulation_4_14183.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/FirearmRateper100kPopulation_4_18234.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/FirearmRateper100kPopulation_4_360.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/FirearmRateper100kPopulation_4_691.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/FirearmRateper100kPopulation_4_9142.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/PopulationDensityResidentsperSquareMile_0_11130.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/PopulationDensityResidentsperSquareMile_0_1132861.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/PopulationDensityResidentsperSquareMile_0_2864942.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/PopulationDensityResidentsperSquareMile_0_4948793.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/PopulationDensityResidentsperSquareMile_0_87912254.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/UnemploymentLevelofpeople_1_24310.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/UnemploymentLevelofpeople_1_31381.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/UnemploymentLevelofpeople_1_38452.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/UnemploymentLevelofpeople_1_45523.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/UnemploymentLevelofpeople_1_52724.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/WeaponOwnershipofpeople_3_00940.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/WeaponOwnershipofpeople_3_0941851.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/WeaponOwnershipofpeople_3_1852952.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/WeaponOwnershipofpeople_3_2954803.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/legend/WeaponOwnershipofpeople_3_48022714.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/leaflet.html" />
       <change beforePath="$PROJECT_DIR$/../DBProject/manage.py" afterPath="$PROJECT_DIR$/../DBProject/manage.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/STOPGunViolence/STOPGunViolence/urls.py" afterPath="$PROJECT_DIR$/STOPGunViolence/STOPGunViolence/urls.py" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/create_dataset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/custom.css" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/custom.css" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/dataset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/index.css" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/index.css" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/nav_bar.css" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/nav_bar.css" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/popular_datasets.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/popular_genres.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/popular_users.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/search_results.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/sign_in.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/sign_up.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/statistics.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/img/Logo.png" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/img/Logo.png" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/img/ProfilePic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/custom.js" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/custom.js" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/comments.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/create_dataset.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/dataset.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/index.html" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/messages.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/nav_bar.html" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/nav_bar.html" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/pop_up.html" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/pop_up.html" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/popular_datasets.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/popular_genres.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/popular_users.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/profile.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/search_results.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/sign_in.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/sign_up.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/sorting.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/staff_sign_up.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/statistics.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/urls.py" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/urls.py" />
+      <change beforePath="$PROJECT_DIR$/STOPGunViolence/mapsproject/views.py" afterPath="$PROJECT_DIR$/STOPGunViolence/mapsproject/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,31 +120,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="search_results.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/templates/search_results.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1813">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="117">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leaflet.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/leaflet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav_bar.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/nav_bar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav_bar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/nav_bar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1524921076983" expanded="true" signature="80:84" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+                <marker date="1524900925036" expanded="true" signature="2384:2437" ph="SELECT usern... auth_user" />
+                <marker date="1524900925036" expanded="true" signature="4649:4836" ph="SELECT datas... user_dataset_following" />
+                <marker date="1524900925036" expanded="true" signature="5179:5379" ph="SELECT C.id comments" />
+                <marker date="1524900925036" expanded="true" signature="6522:6709" ph="SELECT datas... user_dataset_following" />
+                <marker date="1524900925036" expanded="true" signature="7048:7248" ph="SELECT C.id comments" />
+                <marker date="1524900925036" expanded="true" signature="8826:9034" ph="SELECT C.id comments" />
+                <marker date="1524900925036" expanded="true" signature="17780:17833" ph="SELECT * FRO... dataset_list" />
+                <marker date="1524900925036" expanded="true" signature="20448:20608" ph="SELECT genre... dataset_list" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -94,6 +226,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mysite</find>
+      <find>link</find>
+      <find>image</find>
+      <find>legend</find>
+      <find>.png</find>
+      <find>static</find>
+      <find>popup</find>
+      <find>setview</find>
+      <find>map.</find>
+      <find>search</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -104,18 +245,20 @@
       <list>
         <option value="$PROJECT_DIR$/../DBProject/manage.py" />
         <option value="$PROJECT_DIR$/STOPGunViolence/manage.py" />
-        <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/views.py" />
         <option value="$PROJECT_DIR$/STOPGunViolence/STOPGunViolence/settings.py" />
         <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/head.html" />
-        <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/urls.py" />
-        <option value="$PROJECT_DIR$/STOPGunViolence/STOPGunViolence/urls.py" />
         <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/custom.js" />
         <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/pop_up.html" />
         <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/nav_bar.css" />
-        <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/nav_bar.html" />
         <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/custom.css" />
         <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/index.html" />
         <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/index.css" />
+        <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/nav_bar.html" />
+        <option value="$PROJECT_DIR$/../DBProject/DataHub/urls.py" />
+        <option value="$PROJECT_DIR$/STOPGunViolence/STOPGunViolence/urls.py" />
+        <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/urls.py" />
+        <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/views.py" />
+        <option value="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/leaflet.html" />
       </list>
     </option>
   </component>
@@ -169,6 +312,28 @@
               <item name="Making-Maps---Studying-Gun-Violence-in-US" type="b2602c69:ProjectViewProjectNode" />
               <item name="Making-Maps---Studying-Gun-Violence-in-US" type="462c0819:PsiDirectoryNode" />
               <item name="STOPGunViolence" type="462c0819:PsiDirectoryNode" />
+              <item name="mapsproject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Making-Maps---Studying-Gun-Violence-in-US" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Making-Maps---Studying-Gun-Violence-in-US" type="462c0819:PsiDirectoryNode" />
+              <item name="STOPGunViolence" type="462c0819:PsiDirectoryNode" />
+              <item name="mapsproject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Making-Maps---Studying-Gun-Violence-in-US" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Making-Maps---Studying-Gun-Violence-in-US" type="462c0819:PsiDirectoryNode" />
+              <item name="STOPGunViolence" type="462c0819:PsiDirectoryNode" />
+              <item name="mapsproject" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Making-Maps---Studying-Gun-Violence-in-US" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Making-Maps---Studying-Gun-Violence-in-US" type="462c0819:PsiDirectoryNode" />
+              <item name="STOPGunViolence" type="462c0819:PsiDirectoryNode" />
               <item name="STOPGunViolence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -206,6 +371,11 @@
               <item name="DataHub" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Making-Maps---Studying-Gun-Violence-in-US" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBProject" type="462c0819:PsiDirectoryNode" />
+              <item name="DBProject" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -226,8 +396,11 @@
       <recent name="$PROJECT_DIR$/STOPGunViolence/mapsproject" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/STOPGunViolence/mapsproject" />
+      <recent name="$PROJECT_DIR$/STOPGunViolence/mapsproject/static" />
+      <recent name="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js" />
+      <recent name="$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css" />
       <recent name="$PROJECT_DIR$/STOPGunViolence/mapsproject/templates" />
+      <recent name="$PROJECT_DIR$/STOPGunViolence/mapsproject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -292,10 +465,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -307,28 +480,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -341,46 +492,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -393,14 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DBProject/DBProject/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -420,16 +523,6 @@
         <state relative-caret-position="-495">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/STOPGunViolence/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#630#662#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -463,9 +556,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2751">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -522,16 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/foot.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -545,32 +626,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/nav_bar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/nav_bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,22 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/templates/search_results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1813">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -734,10 +773,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/templates/search_results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DBProject/DBProject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/STOPGunViolence/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#630#662#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1524921076983" expanded="true" signature="80:84" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/js/Autolinker.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/data/WeaponOwnershipofpeople_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DBProject/DataHub/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+            <marker date="1524900925036" expanded="true" signature="2384:2437" ph="SELECT usern... auth_user" />
+            <marker date="1524900925036" expanded="true" signature="4649:4836" ph="SELECT datas... user_dataset_following" />
+            <marker date="1524900925036" expanded="true" signature="5179:5379" ph="SELECT C.id comments" />
+            <marker date="1524900925036" expanded="true" signature="6522:6709" ph="SELECT datas... user_dataset_following" />
+            <marker date="1524900925036" expanded="true" signature="7048:7248" ph="SELECT C.id comments" />
+            <marker date="1524900925036" expanded="true" signature="8826:9034" ph="SELECT C.id comments" />
+            <marker date="1524900925036" expanded="true" signature="17780:17833" ph="SELECT * FRO... dataset_list" />
+            <marker date="1524900925036" expanded="true" signature="20448:20608" ph="SELECT genre... dataset_list" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/nav_bar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/static/css/nav_bar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="117">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STOPGunViolence/mapsproject/templates/leaflet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="49" />
           <folding />
         </state>
       </provider>
