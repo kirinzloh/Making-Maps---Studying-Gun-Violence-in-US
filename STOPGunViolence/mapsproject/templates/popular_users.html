@@ -1,0 +1,54 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% include "head.html" %}
+	<link href="{% static 'css/popular_users.css' %}" rel="stylesheet"/>
+</head>
+<body id="page-top">
+	{% include "nav_bar.html" %}
+
+	<div class="container" id="everything">
+		<a href="/statistics/">Back</a>
+		<h1>Most Popular Users</h1>
+		{% include "sorting.html" %}
+		<br>
+		<ol id="mostPopularList">
+      {% for user in popular_users %}
+			<li>
+				<div class="popular-user">
+					<div class="list-user-pic">
+						<img src="{% static 'img/ProfilePic.png' %}"/>
+					</div>
+					<div class="list-user-name">
+						<p><b><a href="/user/{{ user.username }}/">{{ user.username }}</a></b></p>
+					</div>
+					<div class="list-no-datasets">
+						<p>{{ user.num_of_datasets }} Datasets</p>
+						<p> 
+							{% for i in "12345" %}
+								{% if forloop.counter0 < user.avg_ratings %}
+									<i class="fa fa-star"></i>
+								{% else %}
+									<i class="fa fa-star-o"></i>
+								{% endif %}
+							{% endfor %}
+							{% if user.avg_ratings == 0 %}
+							&nbsp;(No ratings yet)
+							{% endif %}
+						</p>
+					</div>
+					<div class="list-no-follows">
+						<p>{{ user.total_followers }} Followwers</p>
+					</div>
+				</div>
+				<hr/>
+			</li>
+    	{% endfor %}
+		</ol>
+	</div>
+
+	{% include "foot.html" %}
+
+</body>
+</html>

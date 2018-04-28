@@ -1,0 +1,35 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% include "head.html" %}
+	<link href="{% static 'css/sign_in.css' %}" rel="stylesheet"/>
+</head>
+<body id="page-top">
+	{% include "nav_bar.html" %}
+	<div id="everything" class="container">
+		<div id="centerDiv">
+			<h1>Sign in to DataHub</h1>
+			<br>
+			{% include "messages.html" %}
+			<div id="signInForm">
+				<!-- put the form here -->
+				<form class="" action="/signin/" method="post">{% csrf_token %}
+				  <label><b>Username</b></label>
+				  <input type="text" class="form-control" name="username" value="" maxlength="150">
+				  <br>
+				  <label><b>Password</b></label>
+				  <input type="password" class="form-control" name="password" value="" maxlength="128">
+				  <br>
+				  <br>
+				  <input type="submit" value="Sign In" class="btn btn-success form-control">
+				</form>
+			</div>
+		</div>
+
+	</div>
+
+	{% include "foot.html" %}
+
+</body>
+</html>

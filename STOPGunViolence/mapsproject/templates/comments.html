@@ -1,0 +1,41 @@
+{% load static %}
+
+<li>
+  <div class="comment-container">
+    <div class="comment-user-pic">
+      <img src="{% static 'img/ProfilePic.png' %}"/>
+    </div>
+    <div class="comment-content">
+      <p><b><a href="/user/{{ comment.username }}">{{ comment.username }}</a><a href="/dataset/{{ comment.dataset_id }}">{{ comment.name }}</a></b>
+        <span>{{ comment.created }}</span>
+      </p>
+      <p>{{ comment.content }}</p>
+    </div>
+    {% if user_info.username == user.username %}
+    <div class="comment-vote-status-self">
+      <div class="total-votes-self">
+        <p>{{ comment.votes }} votes </p>
+      </div>
+      <div class="delete-comment">
+        <a href="/comment/delete/{{ comment.id }}/"><i class="fa fa-trash-o"></i></a>
+      </div>
+    </div>
+    {% endif %}
+    <div class="comment-vote-status">
+      {% if auth and comment.user_id != user.id %}
+      <div class="thumbs-up" onclick="comment_rate({{ comment.id }}, true,{{ comment.dataset_id }})">
+        <i class="fa fa-thumbs-up"></i>
+      </div>
+      <div class="thumbs-down" onclick="comment_rate({{ comment.id }}, false,{{ comment.dataset_id }})">
+        <i class="fa fa-thumbs-down"></i>
+      </div>
+      {% endif %}
+      {% if user_info.username != user.username %}
+      <div class="total-votes">
+        <p>{{ comment.votes }} votes</p>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  <hr/>
+</li>

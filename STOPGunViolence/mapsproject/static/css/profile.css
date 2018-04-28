@@ -1,0 +1,231 @@
+#everything {
+	padding-top: 150px;
+	display: grid;
+	grid-template-columns: 25% 70%;
+	grid-template-rows: auto;
+	grid-template-areas:
+		"userDetails userContent";
+	justify-content: space-between;
+}
+
+#user-details {
+	grid-area: userDetails;
+}
+
+#user-details img {
+	width: 100%
+}
+
+#user-content {
+	grid-area: userContent;
+}
+
+.dataset {
+	display: inline-grid;
+	width: 45%;
+	height: 200px;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: 1px;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-top: 30px;
+	padding: 10px 10px 10px 10px;
+	grid-template-columns: 90% 10%;
+	grid-template-rows: 24% 50% 16%;
+	grid-template-areas:
+		"datasetTitle menuButton"
+		"datasetDescription ."
+		"datasetCategory .";
+}
+
+.dataset:hover {
+	background-color: #e0e0e2;
+}
+
+.dataset-title {
+	grid-area: datasetTitle;
+	position:relative;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.dataset-title h3{
+	font-size:18px;
+}
+
+
+.dataset-menu {
+	grid-area: menuButton;
+	text-align: center;
+}
+
+.dataset-description {
+	grid-area: datasetDescription;
+  overflow: scroll;
+	position: relative;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	font-size: 18px;
+}
+
+.dataset-category {
+	grid-area: datasetCategory;
+	padding: 15px 0px;
+}
+
+#commentList {
+	list-style-type: none;
+	padding: 0 0 0 0;
+	margin-top: 20px;
+}
+
+#commentList li {
+	border-radius: 10px;
+}
+
+/*#commentList li:hover {
+	background-color: #e0e0e2;
+}*/
+
+.comment-container {
+	display: grid;
+	grid-template-columns: 15% 70% 15%;
+	grid-template-rows: auto;
+	grid-template-areas:
+		"userPic details voteStatus";
+	padding: 5px 5px 5px 5px;
+}
+
+.comment-user-pic {
+	grid-area: userPic;
+}
+
+.comment-user-pic img {
+	width: 80%;
+}
+
+.comment-content {
+	grid-area: details;
+}
+
+.comment-vote-status-self {
+	grid-area: voteStatus;
+	display: grid;
+	grid-template-columns: 70% 30%;
+	grid-template-areas:
+		"totalVotesSelf deleteComment";
+	align-content: center;
+}
+
+.delete-comment {
+	grid-area: deleteComment;
+	align-self: center;
+	justify-self: stretch;
+	text-align: center;
+}
+
+.delete-comment a:hover {
+	color: red;
+}
+
+
+.total-votes-self {
+	grid-area: totalVotesSelf;
+	align-self: center;
+	justify-self: stretch;
+	text-align: center;
+}
+
+.total-votes-self p {
+	margin-bottom: 0;
+}
+
+/*.total-votes p {
+	font-size: 10pt;
+}
+*/
+
+.delete-comment a {
+	display:inline-block;
+	color: black;
+	height: 100%;
+	width: 100%;
+}
+
+
+.delete-comment i {
+	font-size: 25pt;
+}
+
+.comment-vote-status {
+	grid-area: voteStatus;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: auto;
+	grid-template-areas:
+		"thumbsUp thumbsDown"
+		"totalVotes totalVotes";
+}
+
+.total-votes {
+	grid-area: totalVotes;
+	justify-self: stretch;
+	align-self: stretch;
+	text-align: center;
+}
+
+.thumbs-up {
+	grid-area: thumbsUp;
+	justify-self: stretch;
+	align-self: stretch;
+	text-align: center;
+}
+
+.thumbs-up:hover {
+	color: #52D017;
+}
+
+.thumbs-up-on {
+	color: #52D017;
+	grid-area: thumbsUp;
+	justify-self: stretch;
+	align-self: stretch;
+	text-align: center;
+}
+
+/*.thumbs-up-on:hover {
+	color: #000;
+}*/
+
+.thumbs-down {
+	grid-area: thumbsDown;
+	justify-self: stretch;
+	align-self: stretch;
+	text-align: center;
+}
+
+.thumbs-down:hover {
+	color: red;
+}
+
+.thumbs-down-on {
+	color: red;
+	grid-area: thumbsDown;
+	justify-self: stretch;
+	align-self: stretch;
+	text-align: center;
+}
+
+/*.thumbs-down-on:hover {
+	color: #000;
+}*/
+
+.hover:hover {
+	color: #3BB9FF;
+}
+
