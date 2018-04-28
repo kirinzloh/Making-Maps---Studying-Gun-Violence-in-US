@@ -1,43 +1,5 @@
 {% load static %}
 
-.btn-follow {
- 	font-weight: 700;
- 	color: #18BC9C;
- 	border-color: #18BC9C;
- 	background-color: white;
- 	outline: none;
-}
-  
-.btn-follow:hover {
-    color: white;
-    border-color: #18BC9C;
-    background-color: #18BC9C;
-}
-
-.btn-following {
- 	font-weight: 700;
- 	color: white;
- 	border-color: #18BC9C;
- 	background-color: #18BC9C;
- 	outline: none;
-}
-  
-.btn-following:hover {
-    color: white;
-    border-color: red;
-    background-color: red;
-}
-
-.btn {
-	box-shadow: none;
-	outline: none;
-}
-
-.btn:focus {
-	box-shadow: none;
-	outline: none;
-}
-
 @font-face {
   font-family: 'MyWebFont';
 

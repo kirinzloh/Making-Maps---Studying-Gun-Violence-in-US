@@ -1,50 +1,20 @@
 #everything {
-	padding-top: 150px;
+	padding-top: 200px;
 }
 
-.listUserPic {
-	grid-area: userPic;
+#button {
+    font-weight: 700;
+ 	color: #18BC9C;
+ 	border-color: #18BC9C;
+ 	background-color: white;
+ 	outline: none;
 }
 
-.listUserPic img {
-	width: 80%;
-	max-width: 100pt;
+#description{
+    padding-top:25px
 }
 
-.listDetails {
-	grid-area: details;
-}
-
-.listFollowStatus {
-	grid-area: followStatus;
-}
-
-.dataset {
-	display: grid;
-	grid-template-columns: 15% 75% 10%;
-	grid-template-rows: auto;
-	grid-template-areas: 
-		"userPic details followStatus";
-	padding: 5px 5px 5px 5px;
-}
-
-#mostPopularList {
-	list-style-type: none;
-	padding: 0 0 0 0;
-}
-
-#mostPopularList li {
-	border-radius: 10px;
-}
-
-#mostPopularList li:hover {
-	background-color: #e0e0e2;
-}
-
-.listDetails p {
-	margin-bottom: 0rem;
-}
-
-.listDetails span {
-	font-size: 0.8rem;
+#purpose {
+    color: red;
+    font-style: italic;
 }
