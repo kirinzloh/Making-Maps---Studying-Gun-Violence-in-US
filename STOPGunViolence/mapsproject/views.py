@@ -11,3 +11,7 @@ def leaflet(request):
     return render(request, 'leaflet.html', context)
 
 
+def analysis(request):
+    context = {'auth': True}
+    return render(request, 'analysis.html', context)
+
